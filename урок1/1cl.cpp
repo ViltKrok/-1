@@ -25,6 +25,7 @@ int main() {
 	int menu;
 	do
 	{
+		//main
 		cout << "Enter task:" << endl;
 		cin >> menu;
 		switch (menu) {
